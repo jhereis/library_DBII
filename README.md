@@ -1,4 +1,4 @@
-# DB PROJECT ETEC JK
+# DB II - PROJECT ETEC JK
 
 1) Vamos criar um banco de dados de uma Livraria com os comandos que aprendemos.
 
